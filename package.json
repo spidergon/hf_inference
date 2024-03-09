@@ -1,0 +1,16 @@
+{
+  "name": "hf_inference",
+  "version": "1.0.0",
+  "description": "Hugging Face Inference API examples",
+  "type": "module",
+  "scripts": {
+    "start": "node textGeneration.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.6.4",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hf_inference",
+  "version": "1.0.0",
+  "description": "Text to speech example using @huggingface/inference",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.6.4"
+  },
+  "devDependencies": {
+    "vite": "^5.1.5"
+  }
+}
