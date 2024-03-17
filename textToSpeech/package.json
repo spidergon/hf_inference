@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@huggingface/inference": "^2.6.4"
+    "@huggingface/inference": "^2.6.6"
   },
   "devDependencies": {
-    "vite": "^5.1.5"
+    "vite": "^5.1.6"
   }
 }

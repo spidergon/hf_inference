@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@huggingface/inference": "^2.6.4",
+    "@huggingface/hub": "^0.14.2",
+    "@huggingface/inference": "^2.6.6",
     "dotenv": "^16.4.5"
   }
 }

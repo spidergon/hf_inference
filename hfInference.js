@@ -5,6 +5,10 @@ dotenv.config();
 
 // Hugging Face Inference API docs: https://huggingface.co/docs/huggingface.js/inference/README
 
-const hf = new HfInference(process.env.HF_TOKEN);
+const token = process.env.HF_TOKEN;
+
+const hf = new HfInference(token);
 
 export default hf;
+
+export { token };
